@@ -1,4 +1,4 @@
-using EventCorp.API.Models;
+using PAW_Caso2.Models;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

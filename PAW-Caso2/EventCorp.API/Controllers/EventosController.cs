@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using EventCorp.API.Models;
 using PAW_Caso2.Models;
+
 
 namespace EventCorp.API.Controllers
 {
