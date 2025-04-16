@@ -36,9 +36,13 @@ namespace PAW_Caso2.Models
 
         public DateTime FechaRegistro { get; set; }
 
-        public string UsuarioRegistro { get; set; }
+        public int UsuarioRegistroId { get; set; }
+        public Usuario? UsuarioRegistro { get; set; }
 
         
         public Categoria Categoria { get; set; }
+
+        // Relaciones
+        public IEnumerable<Inscripcion>? Inscripciones { get; set; }
     }
 }
