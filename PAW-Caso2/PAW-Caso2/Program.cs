@@ -1,38 +1,16 @@
-using PAW_Caso2.Data;
 using Microsoft.EntityFrameworkCore;
+using PAW_Caso2.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddDbContext<EventCorpContext>(op =>
+{
+    op.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
+
 var app = builder.Build();
-
-app.MapGet("/api/events", async (ApplicationDbContext db) =>
-{
-    var eventos = await db.Eventos
-        .Where(e => e.Fecha >= DateTime.Now)
-        .Select(e => new {
-            e.Id,
-            e.Titulo,
-            e.Fecha,
-            e.Hora,
-            e.Ubicacion,
-            e.CupoMaximo
-        })
-        .ToListAsync();
-
-    return Results.Ok(eventos);
-});
-
-app.MapGet("/api/events/{id}", async (int id, ApplicationDbContext db) =>
-{
-    var evento = await db.Eventos.FindAsync(id);
-
-    if (evento == null)
-        return Results.NotFound();
-
-    return Results.Ok(evento);
-});
 
 if (!app.Environment.IsDevelopment())
 {
