@@ -5,6 +5,13 @@ VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAW-Caso2", "PAW-Caso2\PAW-Caso2.csproj", "{25B38B5F-97E0-4F4F-BD1F-669E101DB679}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventCorp.API", "EventCorp.API\EventCorp.API.csproj", "{667EAD1B-4830-4D8B-9FF2-B447E166641B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{AB9E9A61-CA3E-4239-AC93-11E3932C48EA}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{25B38B5F-97E0-4F4F-BD1F-669E101DB679}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25B38B5F-97E0-4F4F-BD1F-669E101DB679}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25B38B5F-97E0-4F4F-BD1F-669E101DB679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{667EAD1B-4830-4D8B-9FF2-B447E166641B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667EAD1B-4830-4D8B-9FF2-B447E166641B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667EAD1B-4830-4D8B-9FF2-B447E166641B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667EAD1B-4830-4D8B-9FF2-B447E166641B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

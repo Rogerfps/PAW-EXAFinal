@@ -1,33 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\",
+  "WorkspaceRootPath": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\casoestudio#2\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB9E9A61-CA3E-4239-AC93-11E3932C48EA}|Elementos de la soluci\u00F3n{AB9E9A61-CA3E-4239-AC93-11E3932C48EA}|C:\\Users\\melis\\Source\\Repos\\PAW-EXAFinal\\PAW-Caso2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AB9E9A61-CA3E-4239-AC93-11E3932C48EA}|Elementos de la soluci\u00F3n{AB9E9A61-CA3E-4239-AC93-11E3932C48EA}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\casoestudio#2\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\eventcorpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\eventcorpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{667EAD1B-4830-4D8B-9FF2-B447E166641B}|EventCorp.API\\EventCorp.API.csproj|c:\\users\\melis\\source\\repos\\paw-exafinal\\paw-caso2\\eventcorp.api\\models\\eventcorpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667EAD1B-4830-4D8B-9FF2-B447E166641B}|EventCorp.API\\EventCorp.API.csproj|solutionrelative:eventcorp.api\\models\\eventcorpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\casoestudio#2\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\melis\\source\\repos\\paw-exafinal\\paw-caso2\\paw-caso2\\controllers\\eventosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\controllers\\eventosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667EAD1B-4830-4D8B-9FF2-B447E166641B}|EventCorp.API\\EventCorp.API.csproj|c:\\users\\melis\\source\\repos\\paw-exafinal\\paw-caso2\\eventcorp.api\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667EAD1B-4830-4D8B-9FF2-B447E166641B}|EventCorp.API\\EventCorp.API.csproj|solutionrelative:eventcorp.api\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667EAD1B-4830-4D8B-9FF2-B447E166641B}|EventCorp.API\\EventCorp.API.csproj|c:\\users\\melis\\source\\repos\\paw-exafinal\\paw-caso2\\eventcorp.api\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667EAD1B-4830-4D8B-9FF2-B447E166641B}|EventCorp.API\\EventCorp.API.csproj|solutionrelative:eventcorp.api\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\melis\\source\\repos\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\casoestudio#2\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{667EAD1B-4830-4D8B-9FF2-B447E166641B}|EventCorp.API\\EventCorp.API.csproj|c:\\users\\melis\\source\\repos\\paw-exafinal\\paw-caso2\\eventcorp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667EAD1B-4830-4D8B-9FF2-B447E166641B}|EventCorp.API\\EventCorp.API.csproj|solutionrelative:eventcorp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\melis\\source\\repos\\paw-exafinal\\paw-caso2\\paw-caso2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\melis\\source\\repos\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\melis\\source\\repos\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\eventcorpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\eventcorpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\melis\\source\\repos\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\casoestudio#2\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\melis\\source\\repos\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\casoestudio#2\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\melis\\source\\repos\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\casoestudio#2\\paw-exafinal\\paw-caso2\\paw-caso2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\melis\\source\\repos\\paw-exafinal\\paw-caso2\\paw-caso2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -38,8 +66,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d562c6a0-d2fe-4c19-a8b3-e5cbc09bf375}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5c82a791-7c9f-441e-952b-8848655dd85e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -47,23 +111,127 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-16T02:46:44.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventCorpContext.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\EventCorp.API\\Models\\EventCorpContext.cs",
+              "RelativeDocumentMoniker": "EventCorp.API\\Models\\EventCorpContext.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\EventCorp.API\\Models\\EventCorpContext.cs",
+              "RelativeToolTip": "EventCorp.API\\Models\\EventCorpContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:33:15.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\EventCorp.API\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "EventCorp.API\\Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\EventCorp.API\\Models\\Evento.cs",
+              "RelativeToolTip": "EventCorp.API\\Models\\Evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:33:14.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventosApiController.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Controllers\\EventosApiController.cs",
+              "RelativeDocumentMoniker": "PAW-Caso2\\Controllers\\EventosApiController.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Controllers\\EventosApiController.cs",
+              "RelativeToolTip": "PAW-Caso2\\Controllers\\EventosApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:20:10.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\EventCorp.API\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "EventCorp.API\\Controllers\\EventosController.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\EventCorp.API\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "EventCorp.API\\Controllers\\EventosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:27:03.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Categoria.cs",
+              "RelativeToolTip": "PAW-Caso2\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:49:12.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\EventCorp.API\\Program.cs",
+              "RelativeDocumentMoniker": "EventCorp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\EventCorp.API\\Program.cs",
+              "RelativeToolTip": "EventCorp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:28:48.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Program.cs",
+              "RelativeDocumentMoniker": "PAW-Caso2\\Program.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Program.cs",
+              "RelativeToolTip": "PAW-Caso2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T02:20:39.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Asistencia.cs",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Asistencia.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Asistencia.cs",
               "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Asistencia.cs",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Asistencia.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Asistencia.cs",
               "RelativeToolTip": "PAW-Caso2\\Models\\Asistencia.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T01:31:55.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Evento.cs",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Evento.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Evento.cs",
               "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Evento.cs",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Evento.cs",
               "RelativeToolTip": "PAW-Caso2\\Models\\Evento.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAIA9wCoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,11 +239,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "EventCorpContext.cs",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\EventCorpContext.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\EventCorpContext.cs",
               "RelativeDocumentMoniker": "PAW-Caso2\\Models\\EventCorpContext.cs",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\EventCorpContext.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\EventCorpContext.cs",
               "RelativeToolTip": "PAW-Caso2\\Models\\EventCorpContext.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAQwEUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -83,11 +251,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Inscripcion.cs",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Inscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Inscripcion.cs",
               "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Inscripcion.cs",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Inscripcion.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Inscripcion.cs",
               "RelativeToolTip": "PAW-Caso2\\Models\\Inscripcion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,11 +263,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\appsettings.json",
               "RelativeDocumentMoniker": "PAW-Caso2\\appsettings.json",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\appsettings.json",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\appsettings.json",
               "RelativeToolTip": "PAW-Caso2\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -107,27 +275,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Categoria.cs",
-              "RelativeToolTip": "PAW-Caso2\\Models\\Categoria.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T00:49:12.805Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Usuario.cs",
               "RelativeToolTip": "PAW-Caso2\\Models\\Usuario.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T00:44:07.479Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d98f7c4d-b652-422c-bcdf-3d0e2b2da2c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

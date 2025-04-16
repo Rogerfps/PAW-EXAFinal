@@ -1,0 +1,24 @@
+# Archivos de usuario
+*.user
+*.suo
+*.vsp
+*.log
+*.vs/
+
+# Binarios de compilación
+bin/
+obj/
+*.dll
+*.exe
+
+# Archivos de Git conflictivos
+*.orig
+
+# SQLite / EF
+*.db
+*.db-shm
+*.db-wal
+
+# Configuración local de VS
+.vscode/
+.vs/

@@ -4716,29 +4716,30 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Microsoft.EntityFrameworkCore >= 9.0.4",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.4",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.4"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fanta\\.nuget\\packages\\": {},
-    "E:\\Programs (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\melis\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
+      "projectUniqueName": "C:\\Users\\melis\\Source\\Repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
       "projectName": "PAW-Caso2",
-      "projectPath": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
-      "packagesPath": "C:\\Users\\fanta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\obj\\",
+      "projectPath": "C:\\Users\\melis\\Source\\Repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
+      "packagesPath": "C:\\Users\\melis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\melis\\Source\\Repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Programs (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\fanta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\melis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4747,6 +4748,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4771,6 +4773,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[9.0.4, )"
+          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
