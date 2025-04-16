@@ -10,7 +10,7 @@ namespace PAW_Caso2.Models
         public int EventoId { get; set; }
 
         [Required]
-        public string UsuarioId { get; set; }
+        public int UsuarioId { get; set; }
 
         public DateTime FechaInscripcion { get; set; }
 
