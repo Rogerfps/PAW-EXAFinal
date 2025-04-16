@@ -125,6 +125,20 @@ namespace PAW_Caso2.Models
                     .OnDelete(DeleteBehavior.Cascade);
 
             });
+
+            modelBuilder.Entity<Asistencia>(Asistencia =>
+            { 
+                Asistencia.HasKey(a => a.Id);
+                Asistencia.Property(a => a.FechaAsistencia).IsRequired();
+                Asistencia.Property(a => a.Asistio).IsRequired();
+                Asistencia.Property(a => a.InscripcionId).IsRequired();
+
+                Asistencia.HasOne(a => a.Inscripcion)
+                    .WithOne(i => i.Asistencia)
+                    .HasForeignKey<Inscripcion>(i => i.Id)
+                    .OnDelete(DeleteBehavior.Cascade);
+
+            });
         }
     }
 }
