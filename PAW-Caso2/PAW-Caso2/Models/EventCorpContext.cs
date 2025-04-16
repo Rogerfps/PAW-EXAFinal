@@ -43,11 +43,6 @@ namespace PAW_Caso2.Models
                     .HasForeignKey(i => i.UsuarioId)
                     .OnDelete(DeleteBehavior.Cascade);
 
-                Usuario.HasMany(u => u.Asistencias)
-                    .WithOne(a => a.Usuario)
-                    .HasForeignKey(a => a.UsuarioId)
-                    .OnDelete(DeleteBehavior.Cascade);
-
             });
 
             modelBuilder.Entity<Categoria>(Categoria =>
