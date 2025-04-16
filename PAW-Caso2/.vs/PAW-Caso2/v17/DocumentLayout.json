@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\",
+  "WorkspaceRootPath": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\casoestudio#2\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\fanta\\onedrive\\documents\\github\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\fanta\\onedrive\\documents\\github\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Categoria.cs",
+              "RelativeToolTip": "PAW-Caso2\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:49:12.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Usuario.cs",
               "RelativeToolTip": "PAW-Caso2\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T00:44:07.479Z",
               "EditorCaption": ""
