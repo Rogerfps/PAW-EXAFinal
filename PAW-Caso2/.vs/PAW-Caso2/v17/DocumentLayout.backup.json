@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\casoestudio#2\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\casoestudio#2\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Asistencia.cs",
+              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Asistencia.cs",
+              "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Asistencia.cs",
+              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Asistencia.cs",
+              "RelativeToolTip": "PAW-Caso2\\Models\\Asistencia.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T01:19:13.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Inscripcion.cs",
               "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Inscripcion.cs",
               "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Inscripcion.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\appsettings.json",
               "RelativeDocumentMoniker": "PAW-Caso2\\appsettings.json",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "PAW-Caso2\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-16T00:54:18.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T00:54:18.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Categoria.cs",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "PAW-Caso2\\Models\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T00:49:12.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T00:49:12.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Usuario.cs",
@@ -81,8 +96,7 @@
               "RelativeToolTip": "PAW-Caso2\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T00:44:07.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T00:44:07.479Z"
             }
           ]
         }
