@@ -17,5 +17,7 @@ namespace PAW_Caso2.Models
         // Relaciones
         public Evento? Evento { get; set; }
         public Usuario? Usuario { get; set; }
+
+        public Asistencia? Asistencia { get; set; }
     }
 }

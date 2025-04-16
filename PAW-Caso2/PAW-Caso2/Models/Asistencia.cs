@@ -19,7 +19,8 @@ namespace PAW_Caso2.Models
         public bool Asistio { get; set; } // true = asistió, false = no asistió
 
         // Relaciones de navegación
-        public Evento Evento { get; set; }
-        public Usuario Usuario { get; set; }
+        public Evento? Evento { get; set; }
+        public Usuario? Usuario { get; set; }
+        public Inscripcion? Inscripcion { get; set; }
     }
 }

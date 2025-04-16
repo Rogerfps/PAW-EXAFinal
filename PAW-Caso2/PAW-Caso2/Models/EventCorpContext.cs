@@ -70,6 +70,61 @@ namespace PAW_Caso2.Models
                     .OnDelete(DeleteBehavior.Cascade);
 
             });
+
+            modelBuilder.Entity<Evento>(Evento =>
+            { 
+                Evento.HasKey(e => e.Id);
+                Evento.Property(e => e.Titulo).IsRequired().HasMaxLength(100);
+                Evento.Property(e => e.Descripcion).IsRequired().HasMaxLength(500);
+                Evento.Property(e => e.CategoriaId).IsRequired();
+                Evento.Property(e => e.Fecha).IsRequired();
+                Evento.Property(e => e.Hora).IsRequired();
+                Evento.Property(e => e.Duracion).IsRequired();
+                Evento.Property(e => e.Ubicacion).IsRequired().HasMaxLength(200);
+                Evento.Property(e => e.CupoMaximo).IsRequired();
+                Evento.Property(e => e.FechaRegistro).IsRequired();
+                Evento.Property(e => e.UsuarioRegistroId).IsRequired();
+
+                Evento.HasMany(e => e.Inscripciones)
+                    .WithOne(i => i.Evento)
+                    .HasForeignKey(i => i.EventoId)
+                    .OnDelete(DeleteBehavior.Cascade);
+
+                Evento.HasOne(e => e.UsuarioRegistro)
+                    .WithMany(u => u.Eventos)
+                    .HasForeignKey(e => e.UsuarioRegistroId)
+                    .OnDelete(DeleteBehavior.Cascade);
+
+                Evento.HasOne(e => e.Categoria)
+                    .WithMany(c => c.Eventos)
+                    .HasForeignKey(e => e.CategoriaId)
+                    .OnDelete(DeleteBehavior.Cascade);
+                
+            });
+
+            modelBuilder.Entity<Inscripcion>(Inscripcion =>
+            { 
+                Inscripcion.HasKey(i => i.Id);
+                Inscripcion.Property(i => i.EventoId).IsRequired();
+                Inscripcion.Property(i => i.UsuarioId).IsRequired();
+                Inscripcion.Property(i => i.FechaInscripcion).IsRequired();
+
+                Inscripcion.HasOne(i => i.Evento)
+                    .WithMany(e => e.Inscripciones)
+                    .HasForeignKey(i => i.EventoId)
+                    .OnDelete(DeleteBehavior.Cascade);
+
+                Inscripcion.HasOne(i => i.Usuario)
+                    .WithMany(u => u.Inscripciones)
+                    .HasForeignKey(i => i.UsuarioId)
+                    .OnDelete(DeleteBehavior.Cascade);
+
+                Inscripcion.HasOne(i => i.Asistencia)
+                    .WithOne(a => a.Inscripcion)
+                    .HasForeignKey<Asistencia>(a => a.Id)
+                    .OnDelete(DeleteBehavior.Cascade);
+
+            });
         }
     }
 }

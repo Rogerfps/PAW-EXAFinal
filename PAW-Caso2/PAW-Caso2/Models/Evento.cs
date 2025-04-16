@@ -40,7 +40,7 @@ namespace PAW_Caso2.Models
         public Usuario? UsuarioRegistro { get; set; }
 
         
-        public Categoria Categoria { get; set; }
+        public Categoria? Categoria { get; set; }
 
         // Relaciones
         public IEnumerable<Inscripcion>? Inscripciones { get; set; }
