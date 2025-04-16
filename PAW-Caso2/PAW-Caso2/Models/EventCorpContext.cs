@@ -88,7 +88,7 @@ namespace PAW_Caso2.Models
                 Evento.HasOne(e => e.UsuarioRegistro)
                     .WithMany(u => u.Eventos)
                     .HasForeignKey(e => e.UsuarioRegistroId)
-                    .OnDelete(DeleteBehavior.Cascade);
+                    .OnDelete(DeleteBehavior.Restrict);
 
                 Evento.HasOne(e => e.Categoria)
                     .WithMany(c => c.Eventos)
@@ -112,7 +112,7 @@ namespace PAW_Caso2.Models
                 Inscripcion.HasOne(i => i.Usuario)
                     .WithMany(u => u.Inscripciones)
                     .HasForeignKey(i => i.UsuarioId)
-                    .OnDelete(DeleteBehavior.Cascade);
+                    .OnDelete(DeleteBehavior.Restrict);
 
                 Inscripcion.HasOne(i => i.Asistencia)
                     .WithOne(a => a.Inscripcion)

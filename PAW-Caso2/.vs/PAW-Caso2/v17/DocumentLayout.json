@@ -1,34 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\",
+  "WorkspaceRootPath": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\casoestudio#2\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\fanta\\onedrive\\documents\\github\\paw-exafinal\\paw-caso2\\paw-caso2\\paw-caso2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\paw-caso2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\casoestudio#2\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\eventcorpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\fanta\\onedrive\\documents\\github\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\eventcorpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\eventcorpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\casoestudio#2\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\casoestudio#2\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\fanta\\onedrive\\documents\\github\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\casoestudio#2\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\casoestudio#2\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\fanta\\onedrive\\documents\\github\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\mateo rincon\\onedrive\\escritorio\\casoestudio#2\\paw-exafinal\\paw-caso2\\paw-caso2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\fanta\\onedrive\\documents\\github\\paw-exafinal\\paw-caso2\\paw-caso2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\fanta\\onedrive\\documents\\github\\paw-exafinal\\paw-caso2\\paw-caso2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\fanta\\onedrive\\documents\\github\\paw-exafinal\\paw-caso2\\paw-caso2\\paw-caso2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\paw-caso2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\fanta\\onedrive\\documents\\github\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\fanta\\onedrive\\documents\\github\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|c:\\users\\fanta\\onedrive\\documents\\github\\paw-exafinal\\paw-caso2\\paw-caso2\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B38B5F-97E0-4F4F-BD1F-669E101DB679}|PAW-Caso2\\PAW-Caso2.csproj|solutionrelative:paw-caso2\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,93 +53,133 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PAW-Caso2",
+              "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
+              "RelativeDocumentMoniker": "PAW-Caso2\\PAW-Caso2.csproj",
+              "ToolTip": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
+              "RelativeToolTip": "PAW-Caso2\\PAW-Caso2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T02:23:42.458Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PAW-Caso2.csproj",
+              "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
+              "RelativeDocumentMoniker": "PAW-Caso2\\PAW-Caso2.csproj",
+              "ToolTip": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
+              "RelativeToolTip": "PAW-Caso2\\PAW-Caso2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T01:50:17.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Program.cs",
+              "RelativeDocumentMoniker": "PAW-Caso2\\Program.cs",
+              "ToolTip": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Program.cs",
+              "RelativeToolTip": "PAW-Caso2\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T01:46:51.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Asistencia.cs",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Asistencia.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Asistencia.cs",
               "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Asistencia.cs",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Asistencia.cs",
+              "ToolTip": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Asistencia.cs",
               "RelativeToolTip": "PAW-Caso2\\Models\\Asistencia.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T01:31:55.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Evento.cs",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Evento.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Evento.cs",
               "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Evento.cs",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Evento.cs",
               "RelativeToolTip": "PAW-Caso2\\Models\\Evento.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAIA9wCoAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwCoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T01:14:07.741Z"
+              "WhenOpened": "2025-04-16T01:14:07.741Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "EventCorpContext.cs",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\EventCorpContext.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\EventCorpContext.cs",
               "RelativeDocumentMoniker": "PAW-Caso2\\Models\\EventCorpContext.cs",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\EventCorpContext.cs",
+              "ToolTip": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\EventCorpContext.cs",
               "RelativeToolTip": "PAW-Caso2\\Models\\EventCorpContext.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEUAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAUwIYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T01:07:46.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Inscripcion.cs",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Inscripcion.cs",
-              "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Inscripcion.cs",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Inscripcion.cs",
-              "RelativeToolTip": "PAW-Caso2\\Models\\Inscripcion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T01:01:00.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\appsettings.json",
-              "RelativeDocumentMoniker": "PAW-Caso2\\appsettings.json",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\appsettings.json",
-              "RelativeToolTip": "PAW-Caso2\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-16T00:54:18.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Categoria.cs",
-              "RelativeToolTip": "PAW-Caso2\\Models\\Categoria.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T00:49:12.805Z"
+              "WhenOpened": "2025-04-16T01:07:46.95Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Usuario.cs",
-              "RelativeToolTip": "PAW-Caso2\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Title": "Inscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Inscripcion.cs",
+              "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Inscripcion.cs",
+              "ToolTip": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Inscripcion.cs",
+              "RelativeToolTip": "PAW-Caso2\\Models\\Inscripcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T00:44:07.479Z"
+              "WhenOpened": "2025-04-16T01:01:00.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\appsettings.json",
+              "RelativeDocumentMoniker": "PAW-Caso2\\appsettings.json",
+              "ToolTip": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\appsettings.json",
+              "RelativeToolTip": "PAW-Caso2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T00:54:18.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Categoria.cs",
+              "RelativeToolTip": "PAW-Caso2\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIA9wBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:49:12.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PAW-Caso2\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\Models\\Usuario.cs",
+              "RelativeToolTip": "PAW-Caso2\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:44:07.479Z",
+              "EditorCaption": ""
             }
           ]
         }
