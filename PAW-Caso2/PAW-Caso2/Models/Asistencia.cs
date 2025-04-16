@@ -7,20 +7,22 @@ namespace PAW_Caso2.Models
         public int Id { get; set; }
 
         [Required]
-        public int EventoId { get; set; } // Clave foránea al evento
+        public int EventoId { get; set; }
 
         [Required]
-        public int UsuarioId { get; set; } // Clave foránea al usuario
+        public string UsuarioId { get; set; }
 
         [Required]
-        public DateTime FechaAsistencia { get; set; } = DateTime.Now; // Fecha y hora en la que se marcó la asistencia
+        public int InscripcionId { get; set; }
 
         [Required]
-        public bool Asistio { get; set; } // true = asistió, false = no asistió
+        public DateTime FechaAsistencia { get; set; } = DateTime.Now;
 
-        // Relaciones de navegación
-        public Evento? Evento { get; set; }
-        public Usuario? Usuario { get; set; }
-        public Inscripcion? Inscripcion { get; set; }
+        [Required]
+        public bool Asistio { get; set; }
+
+
+
+        public Inscripcion Inscripcion { get; set; }
     }
 }
