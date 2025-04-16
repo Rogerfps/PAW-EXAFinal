@@ -22,9 +22,9 @@ namespace PAW_Caso2.Models
         public DateTime FechaRegistro { get; set; } = DateTime.Now;
 
         [Required]
-        public int UsuarioRegistro { get; set; }
+        public int UsuarioRegistroId { get; set; }
 
-        public Usuario? Usuario { get; set; }
+        public Usuario? UsuarioRegistro { get; set; }
 
         // Relacion con Eventos
         public IEnumerable<Evento> Eventos { get; set; } = new List<Evento>();

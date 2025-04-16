@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\PAW-Caso2"
+    "\\PAW-Caso2",
+    "\\PAW-Caso2\\PAW-Caso2",
+    "\\PAW-Caso2\\PAW-Caso2\\Models"
   ],
-  "SelectedNode": "\\PAW-Caso2\\PAW-Caso2.sln",
+  "SelectedNode": "\\PAW-Caso2\\PAW-Caso2\\Models\\EventCorpContext.cs",
   "PreviewInSolutionExplorer": false
 }

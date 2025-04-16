@@ -15,7 +15,9 @@ namespace PAW_Caso2.Models
         public DateTime FechaInscripcion { get; set; }
 
         // Relaciones
-        public Evento Evento { get; set; }
-        //public ApplicationUser Usuario { get; set; }
+        public Evento? Evento { get; set; }
+        public Usuario? Usuario { get; set; }
+
+        public Asistencia? Asistencia { get; set; }
     }
 }

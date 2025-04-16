@@ -28,6 +28,13 @@ namespace PAW_Caso2.Models
 
         [Required]
         public string Rol { get; set; }
+
+        // Relacion con Eventos
+        public IEnumerable<Evento>? Eventos { get; set; }
+        public IEnumerable<Categoria>? Categorias { get; set; }
+        public IEnumerable<Inscripcion>? Inscripciones { get; set; }
+        public IEnumerable<Asistencia>? Asistencias { get; set; }
+
     }
 }
 

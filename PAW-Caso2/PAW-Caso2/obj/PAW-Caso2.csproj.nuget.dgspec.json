@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\PrograAvnazadaWeb\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj": {}
+    "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\PrograAvnazadaWeb\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj": {
+    "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\PrograAvnazadaWeb\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
+        "projectUniqueName": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
         "projectName": "PAW-Caso2",
-        "projectPath": "C:\\Proyectos\\PrograAvnazadaWeb\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
-        "packagesPath": "C:\\Users\\Roger\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\PrograAvnazadaWeb\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\obj\\",
+        "projectPath": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
+        "packagesPath": "C:\\Users\\fanta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fanta\\OneDrive\\Documents\\GitHub\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Programs (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Roger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fanta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,11 +43,30 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -64,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
