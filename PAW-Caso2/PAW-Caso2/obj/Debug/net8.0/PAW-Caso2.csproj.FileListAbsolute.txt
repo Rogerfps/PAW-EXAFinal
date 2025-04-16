@@ -1,0 +1,9 @@
+C:\Users\fanta\OneDrive\Documents\GitHub\PAW-EXAFinal\PAW-Caso2\PAW-Caso2\obj\Debug\net8.0\PAW-Caso2.csproj.AssemblyReference.cache
+C:\Users\fanta\OneDrive\Documents\GitHub\PAW-EXAFinal\PAW-Caso2\PAW-Caso2\obj\Debug\net8.0\PAW-Caso2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanta\OneDrive\Documents\GitHub\PAW-EXAFinal\PAW-Caso2\PAW-Caso2\obj\Debug\net8.0\PAW-Caso2.AssemblyInfoInputs.cache
+C:\Users\fanta\OneDrive\Documents\GitHub\PAW-EXAFinal\PAW-Caso2\PAW-Caso2\obj\Debug\net8.0\PAW-Caso2.AssemblyInfo.cs
+C:\Users\fanta\OneDrive\Documents\GitHub\PAW-EXAFinal\PAW-Caso2\PAW-Caso2\obj\Debug\net8.0\PAW-Caso2.csproj.CoreCompileInputs.cache
+C:\Users\fanta\OneDrive\Documents\GitHub\PAW-EXAFinal\PAW-Caso2\PAW-Caso2\obj\Debug\net8.0\PAW-Caso2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fanta\OneDrive\Documents\GitHub\PAW-EXAFinal\PAW-Caso2\PAW-Caso2\obj\Debug\net8.0\PAW-Caso2.RazorAssemblyInfo.cache
+C:\Users\fanta\OneDrive\Documents\GitHub\PAW-EXAFinal\PAW-Caso2\PAW-Caso2\obj\Debug\net8.0\PAW-Caso2.RazorAssemblyInfo.cs
+C:\Users\fanta\OneDrive\Documents\GitHub\PAW-EXAFinal\PAW-Caso2\PAW-Caso2\obj\Debug\net8.0\PAW-Caso2.sourcelink.json
