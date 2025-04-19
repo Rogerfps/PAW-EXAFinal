@@ -1,0 +1,65 @@
+﻿@model IEnumerable<PAW_Caso2.Models.Usuario>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @* @Html.DisplayNameFor(model => model.NombreUsuario) *@
+                Nombre de Usuario
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.NombreCompleto) *@
+                Nombre Completo
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.Correo) *@
+                Correo Electrónico
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.Telefono) *@
+				Teléfono
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rol)
+            </th>
+            <th>
+                Acciones
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreUsuario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreCompleto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Correo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telefono)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rol)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Detalles</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
