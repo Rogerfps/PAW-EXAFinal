@@ -4,6 +4,7 @@ using PAW_Caso2.Models;
 
 namespace PAW_Caso2.Controllers
 {
+    [ApiExplorerSettings(IgnoreApi = true)]
     [ApiController]
     [Route("api/[controller]")]
     public class EventosApiController : ControllerBase
