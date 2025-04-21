@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj": {}
+    "C:\\Proyectos\\PrograAvnazadaWeb\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj": {
+    "C:\\Proyectos\\PrograAvnazadaWeb\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
+        "projectUniqueName": "C:\\Proyectos\\PrograAvnazadaWeb\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
         "projectName": "PAW-Caso2",
-        "projectPath": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
-        "packagesPath": "C:\\Users\\melis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\melis\\source\\repos\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\obj\\",
+        "projectPath": "C:\\Proyectos\\PrograAvnazadaWeb\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
+        "packagesPath": "C:\\Users\\Roger\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\PrograAvnazadaWeb\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\melis\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Roger\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,8 +40,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -103,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
