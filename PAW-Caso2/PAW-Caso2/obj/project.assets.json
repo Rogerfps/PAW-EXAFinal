@@ -8185,19 +8185,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Roger\\.nuget\\packages\\": {}
+    "C:\\Users\\Mateo Rincon\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos\\PrograAvnazadaWeb\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
+      "projectUniqueName": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
       "projectName": "PAW-Caso2",
-      "projectPath": "C:\\Proyectos\\PrograAvnazadaWeb\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
-      "packagesPath": "C:\\Users\\Roger\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos\\PrograAvnazadaWeb\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\obj\\",
+      "projectPath": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\PAW-Caso2.csproj",
+      "packagesPath": "C:\\Users\\Mateo Rincon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mateo Rincon\\OneDrive\\Escritorio\\CasoEstudio#2\\PAW-EXAFinal\\PAW-Caso2\\PAW-Caso2\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Roger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mateo Rincon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8223,7 +8228,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -8281,7 +8287,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

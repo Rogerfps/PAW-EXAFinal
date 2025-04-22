@@ -3,8 +3,10 @@
     "",
     "\\PAW-Caso2",
     "\\PAW-Caso2\\PAW-Caso2",
-    "\\PAW-Caso2\\PAW-Caso2\\Models"
+    "\\PAW-Caso2\\PAW-Caso2\\Models",
+    "\\PAW-Caso2\\PAW-Caso2\\Views",
+    "\\PAW-Caso2\\PAW-Caso2\\Views\\Shared"
   ],
-  "SelectedNode": "\\PAW-Caso2\\PAW-Caso2\\Models\\EventCorpContext.cs",
+  "SelectedNode": "\\PAW-Caso2\\PAW-Caso2\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }
