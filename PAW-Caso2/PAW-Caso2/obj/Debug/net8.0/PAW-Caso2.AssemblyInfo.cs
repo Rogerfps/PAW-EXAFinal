@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAW-Caso2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3219ab95bf349468cd2eddcccbaafedd89b21646")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e32b25b3eabca873805a3ab582061ef8b4ff124")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAW-Caso2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAW-Caso2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

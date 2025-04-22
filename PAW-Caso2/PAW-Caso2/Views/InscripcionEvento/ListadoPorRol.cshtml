@@ -1,0 +1,45 @@
+﻿@model List<PAW_Caso2.Models.Evento>
+@{
+    ViewData["Title"] = "Usuarios Inscritos por Evento";
+}
+
+<h2>Usuarios Inscritos</h2>
+
+@foreach (var evento in Model)
+{
+    <div class="card mb-3">
+        <div class="card-header bg-secondary text-white">
+            <h5 class="mb-0">@evento.Titulo (@evento.Fecha.ToString("dd/MM/yyyy"))</h5>
+        </div>
+        <div class="card-body">
+            @if (evento.Inscripciones != null && evento.Inscripciones.Any())
+            {
+                <table class="table table-bordered table-sm">
+                    <thead>
+                        <tr>
+                            <th>Nombre Completo</th>
+                            <th>Correo</th>
+                            <th>Teléfono</th>
+                            <th>Fecha de Inscripción</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var insc in evento.Inscripciones)
+                        {
+                            <tr>
+                                <td>@insc.Usuario?.NombreCompleto</td>
+                                <td>@insc.Usuario?.Correo</td>
+                                <td>@insc.Usuario?.Telefono</td>
+                                <td>@insc.FechaInscripcion.ToString("dd/MM/yyyy")</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <p>No hay inscritos en este evento.</p>
+            }
+        </div>
+    </div>
+}

@@ -19,6 +19,25 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
+
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            @if (User.IsInRole("1"))
+                            {
+                                <!-- Menú para Admin -->
+                                
+                            }
+                            else if (User.IsInRole("2"))
+                            {
+                                <!-- Menú para Organizador -->
+
+                                
+                            }
+                            else if (User.IsInRole("3"))
+                            {
+                                <!-- Menú para User -->
+                            }
+                        }
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
@@ -31,6 +50,14 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="DashBoard" asp-action="Index">DashBoard</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Evento" asp-action="Index">Eventos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Categoria" asp-action="Index">Categorias</a>
+                        </li>
+                        
+                      
                     </ul>
                     <partial name="_LoginPartial" />
                 </div>
